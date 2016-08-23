@@ -1,7 +1,7 @@
 <html>
 <head>
 <head>
-	<title>Web Design Agency Template by Rapheal Prince</title>
+	<title>We are Launching!</title>
 	<link rel="stylesheet" href="<?php echo base_url()?>css/nostyle.css">
 	<link rel="stylesheet" href="<?php echo base_url()?>css/bs/css/bootstrap.css">
 	<link rel="stylesheet" href="<?php echo base_url()?>css/bs/css/bootstrap.min.css">
@@ -22,7 +22,7 @@
 </head>
 <body>
 
-<!--Code for the Modal -->
+<!--Code for the Modal, Not Needed -->
 
 
 
